@@ -1,0 +1,10 @@
+streamlit
+requests
+websockets
+fastapi
+uvicorn
+pydantic
+httpx
+python-dotenv
+openai
+beautifulsoup4
